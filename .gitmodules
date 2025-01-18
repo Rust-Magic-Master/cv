@@ -1,0 +1,6 @@
+[submodule "cv_frontend"]
+	path = cv_frontend
+	url = https://github.com/Rust-Magic-Master/cv_frontend.git
+[submodule "cv_backend"]
+	path = cv_backend
+	url = https://github.com/Rust-Magic-Master/cv_backend.git
